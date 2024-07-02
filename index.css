@@ -61,7 +61,7 @@ body {
 
 .menu {
     position: absolute;
-    top: 35px;
+    top: 42px;
     left: -250px; /* Escondido fora da tela */
     width: 200px;
     background-color: white;
