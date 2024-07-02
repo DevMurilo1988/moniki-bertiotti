@@ -34,8 +34,9 @@ body {
     }
 }
 .menu-hamburger {
-    position: relative;
+    position: fixed;
     z-index: 1;
+    
 }
 #menu-toggle {
     display: none;
